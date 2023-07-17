@@ -48,7 +48,7 @@ public class App
     	   String name=sc.nextLine();
     	   System.out.print("Enter your passout year: ");
     	   String year=sc.next();
-    	   System.out.print("Enter your prefered position(abbreviation will be enough): ");
+    	   System.out.print(" Enter your prefered position(abbreviation will be enough): ");
     	   String pos=sc.next();
     	   
     	   Players player=new Players(name,year,pos);
