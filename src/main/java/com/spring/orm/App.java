@@ -24,7 +24,7 @@ public class App
     	PlayersServiceDaoIMPL playersServiceDaoIMPL=context.getBean("playersServiceDaoIMPL",PlayersServiceDaoIMPL.class);
     	
     	
-    	System.out.println("Welcome to F C KIET!!!!");
+    	System.out.println("Welcome to F C KIET!!!!!!!");
     	int i=0;
     	while(i==0)
     	{
